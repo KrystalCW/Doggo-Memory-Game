@@ -1,4 +1,4 @@
-permalink: /index.html
+permalink: ./public/index.html
 
 # Doggo Memory Game
 
