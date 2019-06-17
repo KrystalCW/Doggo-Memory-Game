@@ -16,4 +16,4 @@ In this application, you will click on the images of the dogs, but don't click o
 
 ### Deployment
 
-The deployed link can be accessed here: [link](http://https://krystalcw.github.io/doggo-memory-game/ "Doggo Memory Game")
+The deployed link can be accessed here: [link](http://https://krystalcw.github.io/Doggo-Memory-Game/ "Doggo Memory Game")
