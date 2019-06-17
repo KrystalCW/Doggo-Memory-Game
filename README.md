@@ -1,5 +1,5 @@
 ---
-permalink: ./public/index.html
+permalink: /index.html
 ---
 
 # Doggo Memory Game
