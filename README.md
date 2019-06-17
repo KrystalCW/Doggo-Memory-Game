@@ -1,4 +1,6 @@
+---
 permalink: ./public/index.html
+---
 
 # Doggo Memory Game
 
