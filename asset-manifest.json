@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Doggo-Memory-Game/static/css/main.3f2ce128.chunk.css",
-    "main.js": "/Doggo-Memory-Game/static/js/main.e41c8a01.chunk.js",
-    "main.js.map": "/Doggo-Memory-Game/static/js/main.e41c8a01.chunk.js.map",
+    "main.css": "/Doggo-Memory-Game/static/css/main.52808cb5.chunk.css",
+    "main.js": "/Doggo-Memory-Game/static/js/main.6086f553.chunk.js",
+    "main.js.map": "/Doggo-Memory-Game/static/js/main.6086f553.chunk.js.map",
     "runtime~main.js": "/Doggo-Memory-Game/static/js/runtime~main.c24fd6e6.js",
     "runtime~main.js.map": "/Doggo-Memory-Game/static/js/runtime~main.c24fd6e6.js.map",
     "static/js/2.884c28c3.chunk.js": "/Doggo-Memory-Game/static/js/2.884c28c3.chunk.js",
     "static/js/2.884c28c3.chunk.js.map": "/Doggo-Memory-Game/static/js/2.884c28c3.chunk.js.map",
     "index.html": "/Doggo-Memory-Game/index.html",
-    "precache-manifest.00c724d447903b30a93180b150c14c0a.js": "/Doggo-Memory-Game/precache-manifest.00c724d447903b30a93180b150c14c0a.js",
+    "precache-manifest.1e85bfc164fdeace6e178d45eb722d33.js": "/Doggo-Memory-Game/precache-manifest.1e85bfc164fdeace6e178d45eb722d33.js",
     "service-worker.js": "/Doggo-Memory-Game/service-worker.js",
-    "static/css/main.3f2ce128.chunk.css.map": "/Doggo-Memory-Game/static/css/main.3f2ce128.chunk.css.map"
+    "static/css/main.52808cb5.chunk.css.map": "/Doggo-Memory-Game/static/css/main.52808cb5.chunk.css.map"
   }
 }

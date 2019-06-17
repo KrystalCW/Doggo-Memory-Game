@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Doggo-Memory-Game/precache-manifest.00c724d447903b30a93180b150c14c0a.js"
+  "/Doggo-Memory-Game/precache-manifest.1e85bfc164fdeace6e178d45eb722d33.js"
 );
 
 self.addEventListener('message', (event) => {
